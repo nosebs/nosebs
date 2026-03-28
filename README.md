@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+![https://www.markdownlang.com/markdown-logo.png](https://github.com/nosebs/nosebs/blob/main/obed_yutnenko_002.png?raw=true)
+
+
 <!--
 **nosebs/nosebs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
